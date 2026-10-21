@@ -1,0 +1,5 @@
+1001 Rossi Luca 4A INF
+1002 Bianchi Giulia 4A INF
+1003 Ferrero Marco 4B TEL
+1004 Gallo Sara 5A INF
+1005 Bruno Matteo 5B TEL

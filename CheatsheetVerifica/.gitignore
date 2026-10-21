@@ -1,0 +1,5 @@
+cheatsheet
+*.o
+*.dSYM/
+.DS_Store
+output/
